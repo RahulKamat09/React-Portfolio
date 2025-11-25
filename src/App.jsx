@@ -27,7 +27,7 @@ function App() {
 
   return (
     <>
-      <BrowserRouter>
+      <BrowserRouter basename="/React-Portfolio">
         <ScrollToTop />
         <Routes>
           <Route path="/" element={<><Header /><Home /> <Footer /></>} />
