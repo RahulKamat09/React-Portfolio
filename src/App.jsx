@@ -10,8 +10,6 @@ import Resume from "./pages/Resume";
 import Portfolio from "./pages/Portfolio";
 import Contact from "./pages/Contact";
 import Footer from "./components/Footer";
-import ScrollToTop from "./components/ScrollToTop";
-
 function App() {
 
   useEffect(() => {
@@ -28,7 +26,6 @@ function App() {
   return (
     <>
       <BrowserRouter basename="/React-Portfolio">
-        <ScrollToTop />
         <Routes>
           <Route path="/" element={<><Header /><Home /> <Footer /></>} />
           <Route path="/about" element={<><Header /><About /> <Footer /></>} />

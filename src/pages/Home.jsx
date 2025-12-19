@@ -25,7 +25,7 @@ function Home() {
                         </p>
                         <div className="mt-4 d-flex justify-content-center gap-3 flex-wrap" data-aos="fade-up" data-aos-duration={2500}>
                             <Link to="/portfolio" className="btn btn-primary text-black fw-bold btn-lg px-4">View My Work →</Link>
-                            <a href="/assets/Rahul_Kamat_(CV).pdf" download className="btn btn-outline-light btn-lg px-4">
+                            <a href="Rahul_Kamat_(CV).pdf" download className="btn btn-outline-light btn-lg px-4">
                                 <i className="bi bi-download me-2" />Download Resume
                             </a>
                             <Link to="/contact" className="btn btn-outline-light btn-lg px-4">

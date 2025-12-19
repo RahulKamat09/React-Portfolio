@@ -11,7 +11,7 @@ function Resume() {
                     <div className="underline mx-auto mt-2" />
                 </div>
                 <div className="btns mt-4 d-flex justify-content-center gap-3 flex-wrap">
-                    <a href="assets/Rahul_Kamat_(CV).pdf" download className="btn custom-btn btn-lg px-4 mt-4 fw-bold" data-aos="zoom-out" data-aos-duration={2000}>
+                    <a href="Rahul_Kamat_(CV).pdf" download className="btn custom-btn btn-lg px-4 mt-4 fw-bold" data-aos="zoom-out" data-aos-duration={2000}>
                         <i className="bi bi-download" /> Download Resume
                     </a>
                 </div>
@@ -138,7 +138,7 @@ function Resume() {
                     <div className="row">
                         <div className="col-lg-12">
                             <div className="fs-3 fw-bold my-4 ms-2" data-aos="fade-right" data-aos-duration={1000}>
-                                <i className="bi bi-bullseye" style={{ color: '#ff8c32' }} />
+                                <i className="bi bi-bullseye me-2" style={{ color: '#ff8c32' }} />
                                 Soft <span className="text-info">Skills</span>
                             </div>
                             <div className="row">

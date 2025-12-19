@@ -127,8 +127,8 @@ function Portfolio() {
                                             <li>Notification sound</li>
                                         </ul>
                                         <div className="buttons">
-                                            <Link to="https://rahulkamat09.github.io/Medi-Nest/" className="demo-btn"><i className="bi bi-box-arrow-up-right" /> Live Demo</Link>
-                                            <Link to="https://github.com/RahulKamat09/Medi-Nest" className="code-btn"><i className="bi bi-github" /> Code</Link>
+                                            <Link to="https://rahulkamat09.github.io/Medi-Nest/" target="_blank" className="demo-btn"><i className="bi bi-box-arrow-up-right" /> Live Demo</Link>
+                                            <Link to="https://github.com/RahulKamat09/Medi-Nest" target="_blank" className="code-btn"><i className="bi bi-github" /> Code</Link>
                                         </div>
                                     </div>
                                 </div>
@@ -181,8 +181,8 @@ function Portfolio() {
                                             <li>Notification sound</li>
                                         </ul>
                                         <div className="buttons">
-                                            <Link to="https://rahulkamat09.github.io/Dream-Pulse/" className="demo-btn"><i className="bi bi-box-arrow-up-right" /> Live Demo</Link>
-                                            <Link to="https://github.com/RahulKamat09/Dream-Pulse" className="code-btn"><i className="bi bi-github" /> Code</Link>
+                                            <Link to="https://rahulkamat09.github.io/Dream-Pulse/" target="_blank" className="demo-btn"><i className="bi bi-box-arrow-up-right" /> Live Demo</Link>
+                                            <Link to="https://github.com/RahulKamat09/Dream-Pulse" target="_blank" className="code-btn"><i className="bi bi-github" /> Code</Link>
                                         </div>
                                     </div>
                                 </div>
